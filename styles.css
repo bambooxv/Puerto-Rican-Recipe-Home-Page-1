@@ -24,7 +24,6 @@ ul {
 	border-width: 4px;
 text-align: center;
 	float: left ;
-	margin-left:200px ;
 }
 
 li a {
@@ -44,8 +43,7 @@ li a:hover {
 	font-size: 24px; 
 }
 
-.banner { height: 308px ; 
-margin-left:3px ;
+.banner { height: 308px;
 }
 .basic { 
 height:300px ;
@@ -67,7 +65,6 @@ margin-left: 10px ;
 	width: 700px ; 
 }
 .contents {
-	margin-left: 200px ;
 background-color: turquoise;
 height: 800px;
 	width: 845px ;
@@ -93,4 +90,12 @@ margin: 30px ;
 basic {
 width: 601px; 
 height: 319px;
+}
+
+.whole {
+	margin-left: 10% ;
+	margin-right: 10% ;
+height: 800px;
+	width: 850px ; 
+	border-width: 4px;
 }
