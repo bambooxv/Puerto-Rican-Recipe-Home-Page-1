@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+.nav { color: midnightblue; background-color:  turquoise;}
+.nav-item { color: midnightblue; background-color:  turquoise;}
+.nav-link { color: midnightblue; background-color:  turquoise;
+height: 60px;
+width: 150px ;
+padding: 8px 16px;
+text-decoration: none;
+font-family: "Impact" ; 
+font-size: 19px; 
+}
+.nav-tabs { color: midnightblue; background-color:  turquoise;}
+ul {
+  list-style-type: none;
+  margin: 0;
+	margin-right: 2px  ;
+  padding: 0;
+  background-color: #f1f1f1;
+	height: 300px ;
+		width: 150px ; 
+	border: thick black; 
+	border-style: solid; 
+	border-width: 4px;
+text-align: center;
+	float: left ;
+	margin-left:200px ;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+	   font-family: "Impact" ; 
+	font-size: 24px; 
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: darkblue;
+  color: skyblue;
+	font-family: "Impact" ; 
+	font-size: 24px; 
+}
+
+.banner { height: 308px ; 
+margin-left:3px ;
+}
+.basic { 
+height:300px ;
+	width: 300px;
+	float: 	left ; 
+	margin-top:10px ;
+		margin-left: 10px ;
+		margin-right: 20px ;
+ 		margin-bottom: 10px;
+}
+.recipe {
+	margin-top:10px ;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"	; 
+	
+}
+.milk { 
+	margin-top:10px ;
+margin-left: 10px ;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"	; 
+	width: 700px ; 
+}
+.contents {
+	margin-left: 200px ;
+background-color: turquoise;
+height: 800px;
+	width: 845px ;
+	border: thick black; 
+	border-style: solid; 
+	border-width: 4px;
+}
+.title {
+	
+	margin-left: 10px ;
+}
+ body { background-image: url('Images/Flamenco-Beach-PR-9eb749f65b96.jpg');
+	 background-repeat: repeat;
+background-size: 100% 100%;} 
+h1 { margin-left: 20px ;}
+
+.raft { font-size: 36px ;
+font-family: "zapfino" ;
+margin: 30px ;
+	text-align: center;
+
+}
+basic {
+width: 601px; 
+height: 319px;
+}
