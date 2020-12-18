@@ -77,7 +77,8 @@ height: 800px;
 	margin-left: 10px ;
 }
  body { background-image: url('image/Flamenco-Beach-PR-9eb749f65b96.jpg');
-	 background-repeat: repeat;
+	 background-repeat: repeat-x;
+	 background-color: #eceffb;
 background-size: 100% 100%;} 
 h1 { margin-left: 20px ;}
 
